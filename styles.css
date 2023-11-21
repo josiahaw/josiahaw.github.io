@@ -39,6 +39,22 @@ a:hover {
     text-decoration: none;
     color: darkred;
 }
+
 p {
     color: crimson;
+}
+
+.assign {
+    width: 20%;
+    box-shadow: 8px 8px maroon;
+    display: block;
+    border-radius: 20px;
+}
+
+body {
+    display: flex;
+}
+
+h1 {
+    width: 100%;
 }
